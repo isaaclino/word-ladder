@@ -1,2 +1,2 @@
 # word-ladder
-Word Ladder implementation in C++
+Word Ladder implementation using C++
